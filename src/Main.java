@@ -10,7 +10,7 @@ public class Main {
         String inputFName = "src/INPUT.txt";
         Scanner scan = new Scanner(new File(inputFName));
         int p = scan.nextInt();
-        String[] svetochki = new String[] {"G","K","F"};
+        String[] svetochki = new String[] {"G","C","V"};
         for(int i = 0; i <= p; i++)
         {
 
